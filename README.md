@@ -31,7 +31,7 @@ FastAPI, Node.js를 기반으로 실시간 서비스와 데이터 중심의 기�
 ## 🧩 프로젝트
 - 🧠 [LLM 기반 캐릭터 챗봇](https://github.com/orgs/gganbu-chat/repositories)<br>
   → LangChain + FastAPI로 세션 기반 캐릭터 대화 구현  
-- 🏃‍♀️ [Running Hi](https://github.com/sonjuhyeon/aicc-team-pjt-running-app-back)
+- 🏃‍♀️ [Running Hi](https://github.com/sonjuhyeon/aicc-team-pjt-running-app-back)<br>
   → 카카오 지도 기반 러닝 코스 공유 앱
 
 
