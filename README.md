@@ -1,7 +1,5 @@
 # 👋 안녕하세요, 손주현입니다!
 
-FastAPI, Node.js를 기반으로 실시간 서비스와 데이터 중심의 기능 구현에 관심이 많습니다.
-
 ## ⚙️ Skills
 ### Core
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
